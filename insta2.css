@@ -1,0 +1,77 @@
+body{
+  background-color:whitesmoke;
+  margin: inherit;
+}
+
+#img{
+  margin-left:none;
+  margin-right: auto;
+  margin-top:auto;
+  margin-bottom: auto;
+  height:500px;
+  float:left;
+}
+header h1{
+background-color: white;
+border-color: black;
+font-weight: bold;
+}
+
+header{
+  background-color: white;
+  border-style: inset;
+  border-color: lightblack;
+  padding-bottom: 5px;
+  width:600px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+#p1{
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  width: 285px;
+  height:35px;
+}
+#p2{
+  border-radius: 10px;
+  border-style: outset;
+  border-color: white;
+  width: 285px;
+  height:35px;
+  margin-top: 5px;
+}
+#button1{
+  background-color: deepskyblue;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: lightskyblue;
+  width: 285px;
+  height:35px;
+  margin-top: 8px;
+}
+
+main{
+  background-color:white;
+  border-style: inset;
+  padding-bottom: 20px;
+  width:600px;
+  margin-top: 9px;
+  margin-left: auto;
+  margin-right: auto;
+  height:30px;
+}
+#button2{
+  border-color: white;
+  margin-left: 10px;
+}
+#button3{
+  border-color: white;
+  margin-right: 10px;
+}
+#g1{
+  margin-right:320px;
+}
